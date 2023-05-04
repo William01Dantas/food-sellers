@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072207445321",
+    "project_id": "food-sellers-app-c0849",
+    "storage_bucket": "food-sellers-app-c0849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072207445321:android:566f5aa718c196d9096e98",
+        "android_client_info": {
+          "package_name": "com.gmail.food_sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072207445321-atk30nkel90caujqm96f63gtd96s07gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdx3lemlCFpqqT94cRJjVSpY_lbLUCLEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072207445321-atk30nkel90caujqm96f63gtd96s07gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
